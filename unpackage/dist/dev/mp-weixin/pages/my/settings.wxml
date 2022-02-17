@@ -1,0 +1,1 @@
+<view><u-cell-group vue-id="0540cb2e-1" bind:__l="__l" vue-slots="{{['default']}}"><u-cell-item vue-id="{{('0540cb2e-2')+','+('0540cb2e-1')}}" icon="reload" title="退出登陆" arrow="{{false}}" data-event-opts="{{[['^click',[['logout']]]]}}" bind:click="__e" bind:__l="__l"></u-cell-item></u-cell-group></view>

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "u-message-input": "/node-modules/uview-ui/components/u-message-input/u-message-input"
+  }
+}
